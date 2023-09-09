@@ -1,0 +1,232 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    
+}
+header{
+    
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #08171fc6;
+    font-size: 20px;
+    gap: 40px;
+    height: 50px;
+    
+    
+    
+    
+    
+    
+
+}
+header a {
+  color: white;
+}
+.underline{
+    text-decoration: none;
+    margin: 15px 0; 
+}
+section{
+    height: 100vh;
+    
+} 
+.aman_img{
+    height: 250px;
+    border-radius:50% ;
+    width: 250px;
+    float: right;
+
+}
+.mar{
+    margin-right: 30px;
+}
+.b-mar{
+    margin: 30px;
+}
+
+#inst_col{
+    color: #DD2A7B;
+}
+#fac_col{
+    color: #1877F2;
+}
+#Git_col{
+    color: black;
+}
+#link_col{
+    color: rgba(45, 45, 231, 0.804);
+}
+.colicon{
+    font-size: 40px;
+    margin: 0 9px;
+    margin-top: 10px;
+}
+.btn{
+    position: relative;
+    background-color: #93B1A6;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 40px;
+    padding: 15px;
+    top: 90px;
+    border-radius: 20px;
+    
+
+    
+}
+p{
+    line-height: 29px;
+    font-size: 24px;
+}
+#img2{
+    
+    margin-top: 120px;
+    height: 450px;
+    float: right;
+    
+}
+.what{
+    
+    text-align: center;
+}
+.bmar{
+
+    
+    margin-left: 30px;
+}
+.body_mar{
+    margin-left: 30px;
+}
+.mar_body{
+  margin-top: 120px;
+}
+.project{
+    width: 30%;
+    height: 40%;
+    margin: 50px 0px 20px 30px;
+}
+.heading_proj{
+    text-align: center;
+}
+.cen_con{
+    text-align: center;
+}
+.mar_con{
+    margin-left: 30px;
+}
+#Home{
+    background-color:#5C8374;
+    
+}
+
+#Skill{
+    background-color: #5C8374;
+}
+#Achievement{
+    background-color: #5C8374;
+}
+#Project{
+    background-color: #176B87;
+}
+
+  
+
+#Contact{
+    background-color: #5C8374;
+}
+#footer{
+    background-color: #352F44;
+    color: white;
+}
+form{
+    text-align: center;
+}
+#form_body{
+text-align: center;
+}
+#contact_heading{
+text-align: center;
+margin: 20px 0px;
+}
+input, textarea{
+padding: 8px;
+width: 35%;
+margin-bottom: 10px;
+border-radius: 10px;
+
+}
+#footers{
+
+text-align: center;
+background-color: rgba(25, 24, 24, 0.836);
+height: 23%; 
+
+padding: 30px 0px 0px 0px;
+}
+.colicon{
+font-size: 30px;
+padding-left: 15px;
+
+}
+#footer_end{
+padding-top: 16px; 
+color: rgba(255, 255, 255, 0.873);
+margin-top: 0px;
+}
+
+
+input[type="submit"]{
+background-color: aqua;
+cursor: pointer;
+border: none;
+
+}
+input[type="submit"]:hover{
+background-color: #556a62e4;
+}
+.container_pro{
+width: 20%;
+background-color:#ddd;
+margin-left: 30px;
+border-radius: 13px;
+
+}
+.skill{
+color: white;
+padding-top: 4px;
+padding-bottom: 4px;
+text-align: right;
+padding-right: 16px;
+}
+.frontend{
+width: 90%;
+background-color: blueviolet;
+border-radius: 13px;
+}
+.Backend{
+width: 75%;
+background-color: blueviolet;
+border-radius: 13px;
+}
+.Programming{
+width: 80%;
+background-color: blueviolet;
+border-radius: 13px;
+}
+
+header  a:hover {
+
+color: black;
+
+
+}
+
+
+
+
+
+
+
